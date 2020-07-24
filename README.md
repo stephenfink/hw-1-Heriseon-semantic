@@ -43,6 +43,6 @@ However the class says footer when it could be the tag footer and changing the C
     
 ## Contributors
     
-Horiseon Inc.: Owner of files
+Horiseon: Owner of files
 
 Stephen Fink: Refactor
