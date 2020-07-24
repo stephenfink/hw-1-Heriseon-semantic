@@ -2,7 +2,7 @@
 
 This is a refactoring for the company Horiseon. They wanted their site to be acessiable to readers to translate imformation from their site to audio.
 
-## Before--
+## Before
     This file had many <div> tages with classes with its' labels.
     Here's an example below of the html line and CSS to match.
 
@@ -22,8 +22,8 @@ This is a refactoring for the company Horiseon. They wanted their site to be ace
     }
     
     '''
-
-    However the class says footer when it could be the tag footer and changing the CSS sheet to match.
+## After 
+However the class says footer when it could be the tag footer and changing the CSS sheet to match.
 
     '''
     <footer>
@@ -41,8 +41,8 @@ This is a refactoring for the company Horiseon. They wanted their site to be ace
     }
     '''
     
-    ## Contributors
+## Contributors
     
-    Horiseon Inc.: Owner of files
+Horiseon Inc.: Owner of files
 
-    Stephen Fink: Refactor
+Stephen Fink: Refactor
